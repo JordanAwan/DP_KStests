@@ -1,6 +1,6 @@
 # DP_KStests
 
-This code accompanies the paper
+This R code accompanies the paper
 
 Awan, J., Wang, Y. "Differentially Private Kolmogorov-Smirnov-Type Tests"
 
